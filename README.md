@@ -26,12 +26,12 @@ Jonathan Scott is a controversial researcher in the infosec community. While I w
 
 Note that I formatted this 
 
-* [Gamma Group writeup (in English, c. 2014)](./zine/PhineasFisher/gamma.txt)
-* [Hacking Team writeup (in English, c. 2016)](./zine/PhineasFisher/ht-english.txt)
-* [Cayman Island Bank writeup (in English, c. 2019)](./zine/PhineasFisher/cayman-english.md)
-* [Cayman Island Bank writeup (in Spanish, c. 2019)](./zine/PhineasFisher/cayman-esp.txt)
+* [Gamma Group writeup (in English, c. 2014)](./publication/PhineasFisher/gamma.txt)
+* [Hacking Team writeup (in English, c. 2016)](./publication/PhineasFisher/ht-english.txt)
+* [Cayman Island Bank writeup (in English, c. 2019)](./publication/PhineasFisher/cayman-english.md)
+* [Cayman Island Bank writeup (in Spanish, c. 2019)](./publication/PhineasFisher/cayman-esp.txt)
 
-### VirusBulletin
+### Virus Bulletin
 
 [TODO]
 
