@@ -3,13 +3,19 @@
 
 ## Introduction
 
-This repository initially started out as "_The Phineas Philes_," which acted as a mirror for the writeups and hacker manifestos published by "Phineas Fisher." However, drawing inspiration from [David Diaz's hacker zine mirror](https://github.com/alfdav/Zines), I decided to "rebrand" this project into a mirror and/or index for publications by different people/organisations in hacking community.
+This repository initially started out as "_The Phineas Philes_," which acted as a mirror for the writeups and hacker manifestos published by "Phineas Fisher." However, drawing inspiration from [David Diaz's hacker zine mirror](https://github.com/alfdav/Zines), I decided to "rebrand" this project into a mirror and/or index for publications and other works by different people/organisations - be they amateur or professional - in hacking community.
 
-## Publications
+## Archived Works
 
 ### Hack In The Box
 
 [TODO]
+
+### HBGary
+
+HBGary was a security firm that specialised in selling reverse engineering tools for the purposes of malware analysis and exploit development. 
+
+* [FingerPrint (Toolkit)](./toolkits/HBGary/FingerPrint): this is a homemade tool that has the purpose of assisting DFIR professionals and other interested persons in classifying Windows binaries based on their unique characteristics - or their "fingerprints."
 
 ### Jonathan Scott (@jonathandata1)
 
